@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/aarti-ai.gif" width="100%" alt="Aarti Portfolio Demo"/>
+<img src="./assets/aarti's AI.gif" width="100%" alt="Aarti Portfolio Demo"/>
 
 # Aarti Maind
 
