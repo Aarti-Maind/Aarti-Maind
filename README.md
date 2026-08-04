@@ -7,7 +7,7 @@
 ### Full Stack Developer | Java • Spring Boot • React • AI Enthusiast
 
 <p>
-  <a href="https://glyph-portfolio-gen.lovable.app/">
+  <a href="https://aartimaind-portfolio.lovable.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Now-black?style=for-the-badge" />
   </a>
   <a href="https://linkedin.com/in/aarti-maind">
@@ -91,7 +91,7 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 ## Connect
 
-🌐 Portfolio: https://glyph-portfolio-gen.lovable.app/
+🌐 Portfolio: https://aartimaind-portfolio.lovable.app
 
 💼 LinkedIn: https://linkedin.com/in/aarti-maind
 
