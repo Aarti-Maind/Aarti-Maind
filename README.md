@@ -35,15 +35,15 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 ### Backend
 
+```
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring" />
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
+```
+
 
 ### Frontend
 
