@@ -35,14 +35,12 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 ### Backend
 
-```html
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,react,vite,html,css,bootstrap,tailwind,js,mysql,git,github,vscode,idea,postman,vercel,python" />
   <img src="https://cdn.simpleicons.org/railway" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/swagger" width="48" height="48" />
   <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" />
 </p>
-```
 
 
 ### Frontend
