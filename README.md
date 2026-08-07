@@ -35,49 +35,48 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 ### Backend
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 </p>
 
 ### Frontend
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,vite,html,css,bootstrap,tailwind,js" />
 </p>
 
 ### Database
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### Tools & Version Control
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 </p>
 
 ### Cloud & Deployment
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=vercel" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=railway" height="48" />
 </p>
 
 ### AI & Data
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" />
 </p>
+
 
 
 ---
