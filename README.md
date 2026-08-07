@@ -35,12 +35,8 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 ### Backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,vite,html,css,bootstrap,tailwind,js,mysql,git,github,vscode,idea,postman,vercel,python" />
-  <img src="https://cdn.simpleicons.org/railway" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/swagger" width="48" height="48" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" />
-</p>
+<p align="left">   
+<img src="https://skillicons.dev/icons?i=java,spring" /> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" /> </p>
 
 
 ### Frontend
