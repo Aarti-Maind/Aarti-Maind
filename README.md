@@ -74,8 +74,9 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
+
 
 
 
