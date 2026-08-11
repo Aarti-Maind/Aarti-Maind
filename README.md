@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Data+Science+Enthusiast;Creative+%7C+Problem+Solver" alt="Aarti Maind Roles"/>
 
-<img src="https://cdnl.iconscout.com/lottie/premium/thumb/girl-developer-developed-code-animation-gif-download-5861979.gif" width="170" alt="Girl Developer Coding Animation"/>
-
 <br/>
 
 <a href="https://aartimaind-portfolio.vercel.app">
