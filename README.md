@@ -2,22 +2,22 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FFB6D9,50:F472B6,100:A855F7&text=Aarti%20Maind&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%" alt="Aarti Maind Header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Data+Science+Enthusiast;Creative;Problem+Solver" alt="Aarti Maind Roles"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Data+Science+Enthusiast;Creative+%7C+Problem+Solver" alt="Aarti Maind Roles"/>
 
 <img src="https://media.giphy.com/media/2dS5z3X2YQ5ZK/giphy.gif" width="260" alt="Girl Coding Animation"/>
 
 <br/>
 
 <a href="https://aartimaind-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/aarti-maind">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:aartimaind2930@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -46,27 +46,41 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 ### 🔹 Backend
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,jwt" alt="Backend Technologies"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate" alt="Java Spring Hibernate"/>
+
+<br/>
+
+<kbd>JWT</kbd>
+  <kbd>Spring Security</kbd>
+  <kbd>Swagger</kbd>
 
 ### 🔹 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,bootstrap,tailwind" alt="Frontend Technologies"/>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,bootstrap,tailwind" alt="React Vite HTML CSS Bootstrap Tailwind"/>
 
 ### 🔹 Database
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Database Technologies"/>
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
 
 ### 🔹 Tools & Version Control
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,androidstudio" alt="Git GitHub VS Code IntelliJ Postman Android Studio"/>
 
 ### 🔹 Cloud & Deployment
 
-<img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker,railway" alt="Cloud and Deployment Technologies"/>
+<img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker" alt="Vercel Cloudflare Docker"/>
+
+<br/>
+
+<kbd>Railway</kbd>
 
 ### 🔹 AI & Data
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI and Data Technologies"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="Python TensorFlow PyTorch"/>
+
+<br/>
+
+<kbd>Power BI</kbd>
 
 </div>
 
@@ -86,9 +100,9 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aarti-maind&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aarti-maind&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aarti-maind&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aarti-maind&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
 
 </div>
 
@@ -128,15 +142,15 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 <div align="center">
 
 <a href="https://aartimaind-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/aarti-maind">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:aartimaind2930@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
