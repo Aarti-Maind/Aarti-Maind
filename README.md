@@ -94,7 +94,7 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=aarti-maind&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
 
@@ -102,15 +102,6 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 </div>
 
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aarti-maind&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
