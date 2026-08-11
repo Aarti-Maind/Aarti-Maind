@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FFB6D9,50:F472B6,100:A855F7&text=Aarti%20Maind&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%" alt="Aarti Maind Header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Data+Science+Enthusiast;Creative+%7C+Problem+Solver" alt="Aarti Maind Roles"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Data+Science+Enthusiast;Creative+%7C+Problem+Solver" alt="Aarti Maind Roles"/> 
+<img src="DIRECT-GIF-URL" width="180" alt="Hey Programmer Animation"/>
 
 <br/>
 
@@ -16,7 +17,7 @@
 &nbsp;
 <a href="https://instagram.com/aarti.___29"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=aarti-maind&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
 
@@ -94,7 +95,7 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aarti-Maind&theme=radical" width="95%" alt="GitHub Profile Details"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aarti-Maind&theme=radical" height="180" alt="GitHub Statistics"/>
 
