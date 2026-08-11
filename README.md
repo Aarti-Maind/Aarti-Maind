@@ -6,28 +6,24 @@
 
 ### 🚀 Full Stack Developer | Java • Spring Boot • React • AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+Spring+Boot+Developer;React+Frontend+Developer;AI+%26+Data+Science+Enthusiast;Building+Scalable+Applications;Creating+Meaningful+Digital+Experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Aarti+Maind;Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;AI+%26+Data+Science+Enthusiast;Building+Scalable+Applications;Turning+Ideas+Into+Digital+Experiences" />
 
 <br>
 
-<img src="./assets/coding-girl.gif" width="320" alt="Coding Girl"/>
-
-<br><br>
-
 <a href="https://aartimaind-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Now-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A0A0A?style=for-the-badge" />
 </a>
 
 <a href="https://linkedin.com/in/aarti-maind">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://github.com/Aarti-Maind">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://instagram.com/aarti.___29">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <br><br>
@@ -36,9 +32,14 @@
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3A8A&height=120&section=header"/>
 
 # 🌟 About Me
+
+<table>
+<tr>
+
+<td width="65%">
 
 I'm a Full Stack Developer with a background in Computer Science, focused on building scalable web applications and modern digital experiences.
 
@@ -49,6 +50,17 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 * 🎯 Focused on solving real-world problems through software
 * ⚡ Building secure and scalable systems
 * 🤖 Exploring AI, Data Science & Automation
+
+</td>
+
+<td align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -100,11 +112,15 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 # 🚀 Featured Projects
 
+<div align="center">
+
 | 💼 Project                                     | ✨ Highlights                                                                                             |
 | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | **Enterprise Multi-Tenant SaaS POS System**    | Multi-tenant architecture • Role-based access control • JWT Authentication • React + Spring Boot + MySQL |
 | **Event Management System**                    | Secure authentication • REST API architecture • Swagger Documentation • React + Spring Boot              |
 | **Blockchain-Based Student Attendance System** | Facial Recognition Integration • Blockchain-based attendance records • Research Publication              |
+
+</div>
 
 ---
 
@@ -132,7 +148,7 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aarti-Maind&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aarti-Maind&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -171,7 +187,21 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 <div align="center">
 
-<a href="https://aartimaind-portfolio.vercel.app">🌐 Portfolio</a> • <a href="https://linkedin.com/in/aarti-maind">💼 LinkedIn</a> • <a href="https://github.com/Aarti-Maind">💻 GitHub</a> • <a href="https://instagram.com/aarti.___29">📸 Instagram</a>
+<a href="https://aartimaind-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Now-36BCF7?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/aarti-maind">
+<img src="https://img.shields.io/badge/LinkedIn-Aarti_Maind-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Aarti-Maind">
+<img src="https://img.shields.io/badge/GitHub-Aarti--Maind-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://instagram.com/aarti.___29">
+<img src="https://img.shields.io/badge/Instagram-aarti.___29-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
 
 </div>
 
@@ -182,5 +212,7 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 ## ✨ Building technology that creates meaningful experiences
 
 ### 💙 Full Stack Developer • AI Enthusiast • Problem Solver
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E3A8A&height=140&section=footer"/>
 
 </div>
