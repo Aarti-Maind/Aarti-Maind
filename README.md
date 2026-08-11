@@ -94,11 +94,15 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 # 📊 GitHub Analytics
 
-<div align="left">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aarti-maind&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aarti-maind&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="Aarti's GitHub Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aarti-maind&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarti-maind&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Aarti's Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=aarti-maind&theme=tokyonight&hide_border=true" height="180" alt="Aarti's GitHub Streak"/>
 
 </div>
 
@@ -109,7 +113,7 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aarti-maind&theme=tokyo-night&hide_border=true" alt="Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aarti-maind&bg_color=0D1117&color=F472B6&line=A855F7&point=FFB6D9&area=true&hide_border=true" width="95%" alt="Aarti's GitHub Contribution Graph"/>
 
 </div>
 
