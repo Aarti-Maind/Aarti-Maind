@@ -1,29 +1,108 @@
-<div align="center">
-
-<img src="./assets/aarti's AI.gif" width="100%" alt="Banner"/>
-
 # Aarti Maind
 
 ### Full Stack Developer | Java • Spring Boot • React • AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;AI+%26+Data+Science+Enthusiast;Building+Scalable+Applications" />
+---
 
-<br>
+## About Me
 
-<img src="https://media1.tenor.com/m/bfOEyTxwK40AAAAd/work-computer.gif" width="280"/>
+I'm a Full Stack Developer with a background in Computer Science, focused on building scalable web applications and modern digital experiences.
 
-<br>
+### Highlights
 
-<a href="https://aartimaind-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Now-2563EB?style=for-the-badge"/>
-</a>
+* B.Tech in Computer Science Engineering
+* Java Full Stack Developer
+* Passionate about AI-powered applications
+* Continuously learning modern technologies
+* Focused on solving real-world problems through software
+* Building secure and scalable systems
+* Exploring AI, Data Science & Automation
 
-<a href="https://linkedin.com/in/aarti-maind">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+---
 
-<a href="https://github.com/Aarti-Maind">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
+## Tech Stack
 
-</div>
+### Backend
+
+Java • Spring Boot • Spring Security • JWT • Swagger
+
+### Frontend
+
+React • Vite • JavaScript • HTML5 • CSS3 • Bootstrap • Tailwind CSS
+
+### Database
+
+MySQL
+
+### Tools & Version Control
+
+Git • GitHub • VS Code • IntelliJ IDEA • Postman
+
+### Cloud & Deployment
+
+Vercel • Railway
+
+### AI & Data
+
+Python • Power BI
+
+---
+
+## Featured Projects
+
+| Project                                    | Highlights                                                                                          |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------------- |
+| Enterprise Multi-Tenant SaaS POS System    | Multi-tenant architecture, role-based access control, JWT authentication, React, Spring Boot, MySQL |
+| Event Management System                    | Secure authentication, REST API architecture, Swagger documentation, React, Spring Boot             |
+| Blockchain-Based Student Attendance System | Facial recognition integration, blockchain-based attendance records, research publication           |
+
+---
+
+## GitHub Analytics
+
+<!-- GitHub Stats -->
+
+---
+
+## Achievements
+
+<!-- GitHub Trophy Section -->
+
+---
+
+## Contribution Activity
+
+<!-- GitHub Activity Graph -->
+
+---
+
+## Contribution Snake
+
+<!-- GitHub Snake Animation -->
+
+---
+
+## Currently Exploring
+
+* Artificial Intelligence Applications
+* System Design
+* Cloud Technologies
+* Scalable Backend Development
+
+---
+
+## Connect With Me
+
+Portfolio: https://aartimaind-portfolio.vercel.app
+
+LinkedIn: https://linkedin.com/in/aarti-maind
+
+GitHub: https://github.com/Aarti-Maind
+
+Instagram: https://instagram.com/aarti.___29
+
+---
+
+### Building technology that creates meaningful experiences
+
+💙
