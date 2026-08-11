@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Data+Science+Enthusiast;Creative+%7C+Problem+Solver" alt="Aarti Maind Roles"/>
 
-<img src="https://media.giphy.com/media/2dS5z3X2YQ5ZK/giphy.gif" width="260" alt="Girl Coding Animation"/>
+<img src="https://cdnl.iconscout.com/lottie/premium/thumb/girl-developer-developed-code-animation-gif-download-5861979.gif" width="170" alt="Girl Developer Coding Animation"/>
 
 <br/>
 
@@ -16,9 +16,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:aartimaind2930@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a>
 
 <br/><br/>
 
@@ -40,7 +38,7 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
 <div align="left">
 
@@ -82,7 +80,7 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 | Project Highlights                             |                                                                                                          |
 | :--------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
@@ -92,7 +90,7 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -109,7 +107,7 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 ---
 
-# 📈 Contribution Activity
+# Contribution Activity
 
 <div align="center">
 
@@ -119,7 +117,7 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 ---
 
-# 🌱 Currently Exploring
+# Currently Exploring
 
 * Artificial Intelligence Applications
 * System Design
@@ -128,21 +126,11 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 ---
 
-# 🤝 Connect
+# Connect
 
 <div align="center">
 
-<a href="https://aartimaind-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/aarti-maind">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:aartimaind2930@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://aartimaind-portfolio.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a> &nbsp; <a href="https://linkedin.com/in/aarti-maind"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> &nbsp; <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a>
 
 </div>
 
