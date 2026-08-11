@@ -1,10 +1,35 @@
+
+---
+
+## ✅ UPDATED DOCUMENT (with Visitor Counter)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FFB6D9,50:F472B6,100:A855F7&text=Aarti%20Maind&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%" alt="Aarti Maind Header"/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;AI+Enthusiast;Software+Engineer;Problem+Solver" alt="Typing Animation"/>
+
 <img src="https://media.giphy.com/media/2dS5z3X2YQ5ZK/giphy.gif" width="260" alt="Girl Coding Animation"/>
 
-### ♨️ Full Stack Developer | Java • Spring Boot • React • AI Enthusiast
+### 🌐 Portfolio | 💼 LinkedIn | 📧 Email
+
+<a href="https://aartimaind-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+ 
+<a href="https://linkedin.com/in/aarti-maind">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+ 
+<a href="mailto:[aartimaind2930@gmail.com](mailto:aartimaind2930@gmail.com)">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+---
+
+### 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=aarti-maind&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -116,10 +141,6 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 </div>
 
-### ✅ What I improved:
+---
 
-* ✔ Reduced header height (less padding between header & hero section)
-* ✔ Replaced long links with **icons (badges) in one line**
-* ✔ Fixed GitHub analytics for **dark mode (tokyonight theme)**
-* ✔ Center-aligned all contact elements cleanly
-* ✔ Improved spacing consistency across sections
+
