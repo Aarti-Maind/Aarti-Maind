@@ -96,12 +96,6 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aarti-Maind&theme=radical" height="180" alt="Repositories Per Language"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aarti-Maind&theme=radical" height="180" alt="Most Commit Language"/>
-
-<br/><br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aarti-Maind&theme=radical" height="180" alt="GitHub Statistics"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aarti-Maind&theme=radical&utcOffset=5.5" height="180" alt="Productive Time"/>
