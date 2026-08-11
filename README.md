@@ -47,12 +47,12 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 ### 🔹 Backend
 
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate" alt="Java Spring Hibernate"/>
-
-<br/>
-
-<kbd>JWT</kbd>
-  <kbd>Spring Security</kbd>
-  <kbd>Swagger</kbd>
+&nbsp;
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" height="48" alt="Spring Security"/>
+&nbsp;
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="48" alt="JWT"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="48" alt="Swagger"/>
 
 ### 🔹 Frontend
 
@@ -60,7 +60,7 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 ### 🔹 Database
 
-<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL MongoDB"/>
 
 ### 🔹 Tools & Version Control
 
@@ -69,18 +69,14 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 ### 🔹 Cloud & Deployment
 
 <img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker" alt="Vercel Cloudflare Docker"/>
-
-<br/>
-
-<kbd>Railway</kbd>
+&nbsp;
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="48" alt="Railway"/>
 
 ### 🔹 AI & Data
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="Python TensorFlow PyTorch"/>
-
-<br/>
-
-<kbd>Power BI</kbd>
+&nbsp;
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48" alt="Power BI"/>
 
 </div>
 
