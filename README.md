@@ -1,272 +1,265 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:1E3A8A,45:3B82F6,75:60A5FA,100:BFDBFE&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:EEF7FF,50:CDE7FF,100:93C5FD&section=header"/>
 
 <img src="./assets/aarti's AI.gif" width="100%" alt="Aarti Maind Portfolio"/>
 
-<br>
-
 # Aarti Maind
 
-### Full Stack Developer · Java · Spring Boot · React · AI
+### Full Stack Developer · Java · Spring Boot · React · AI Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3200&pause=900&color=1D4ED8&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;AI+%26+Data+Science+Enthusiast;Building+Scalable+Applications;Turning+Ideas+Into+Digital+Experiences"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;AI+%26+Data+Science+Enthusiast;Building+Scalable+Applications;Turning+Ideas+Into+Digital+Experiences"/>
 
 <br>
 
 <a href="https://aartimaind-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
- 
 <a href="https://linkedin.com/in/aarti-maind">
-<img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
- 
 <a href="https://github.com/Aarti-Maind">
-<img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
- 
 <a href="https://instagram.com/aarti.___29">
-<img src="https://img.shields.io/badge/Instagram-60A5FA?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Aarti-Maind&style=flat-square&color=3B82F6&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Aarti-Maind&style=flat-square&color=60A5FA&label=PROFILE+VIEWS"/>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-`JAVA`   `SPRING BOOT`   `REACT`   `MYSQL`   `AI`   `DATA SCIENCE`
+## About Me
+
+</div>
+
+<div align="center">
+
+I'm a Full Stack Developer with a background in Computer Science,<br>
+focused on building scalable web applications and modern digital experiences.
+
+<br>
+
+|     |                                                         |
+| :-: | :-----------------------------------------------------: |
+|  🎓 |          B.Tech in Computer Science Engineering         |
+|  💻 |                Java Full Stack Developer                |
+|  🚀 |         Passionate about AI-powered applications        |
+|  🌱 |        Continuously learning modern technologies        |
+|  🎯 | Focused on solving real-world problems through software |
+|  ⚡  |           Building secure and scalable systems          |
+|  🤖 |         Exploring AI, Data Science & Automation         |
+
+<br>
+
+<img src="https://media1.tenor.com/m/bfOEyTxwK40AAAAd/work-computer.gif" width="220" alt="Working on Computer"/>
 
 </div>
 
 ---
 
-## About Me
+<div align="center">
 
-<table>
-<tr>
-
-<td width="68%" valign="top">
-
-I'm a Full Stack Developer with a background in Computer Science, focused on building scalable web applications and modern digital experiences.
-
-<br>
-
-**What I bring**
-
-* B.Tech in Computer Science Engineering
-* Java Full Stack Development
-* AI-powered application development
-* Secure and scalable backend systems
-* Modern React-based interfaces
-* Interest in Data Science & Automation
-
-</td>
-
-<td width="32%" align="center">
-
-<img src="https://media1.tenor.com/m/bfOEyTxwK40AAAAd/work-computer.gif" width="220" alt="Working at Computer"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## Technology
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
+## Tech Stack
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=java,spring"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=swagger" height="48"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Spring_Security-E0F2FE?style=flat-square&logo=springsecurity&logoColor=1D4ED8"/>
-<img src="https://img.shields.io/badge/JWT-DBEAFE?style=flat-square&logo=jsonwebtokens&logoColor=1E40AF"/>
-<img src="https://img.shields.io/badge/Swagger-BFDBFE?style=flat-square&logo=swagger&logoColor=1D4ED8"/>
-
-</td>
-
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,bootstrap,tailwind,js"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
+<img src="https://skillicons.dev/icons?i=react,vite,js,html,css,bootstrap,tailwind"/>
 
 ### Database
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-</td>
+### Tools & Version Control
 
-<td valign="top">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea"/>
 
-### Tools
+<br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
+<img src="https://skillicons.dev/icons?i=postman"/>
 
 ### Cloud & Deployment
 
 <img src="https://skillicons.dev/icons?i=vercel"/>
+
 <img src="https://go-skill-icons.vercel.app/api/icons?i=railway" height="48"/>
-
-</td>
-
-<td valign="top">
 
 ### AI & Data
 
 <img src="https://skillicons.dev/icons?i=python"/>
 
-<br>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000"/>
 
-<img src="https://img.shields.io/badge/Power_BI-DBEAFE?style=flat-square&logo=powerbi&logoColor=1D4ED8"/>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
-## Featured Work
+<div align="center">
+
+## Featured Projects
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
 ### Enterprise Multi-Tenant SaaS POS System
 
 **React · Spring Boot · MySQL**
 
-Multi-tenant architecture with role-based access control and JWT authentication.
-
-`Multi-Tenant` `RBAC` `JWT` `REST API`
+Multi-tenant architecture
+Role-based access control
+JWT Authentication
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
 ### Event Management System
 
 **React · Spring Boot**
 
-Secure event management platform built around REST APIs and Swagger.
-
-`Authentication` `REST API` `Swagger`
+Secure authentication
+REST API architecture
+Swagger Documentation
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+<td align="center" width="33%">
 
 ### Blockchain-Based Student Attendance System
 
 **Blockchain · Facial Recognition**
 
-Blockchain-based attendance records combined with facial recognition integration.
-
-`Blockchain` `Facial Recognition` `Research`
-
-</td>
-
-<td width="50%" valign="top">
-
-### Building & Exploring
-
-Currently exploring AI applications, system design, cloud technologies and scalable backend development.
-
-`AI` `System Design` `Cloud`
+Blockchain attendance records
+Facial Recognition Integration
+Research Publication
 
 </td>
 
 </tr>
 </table>
 
----
+</div>
 
-## GitHub Overview
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aarti-Maind&show_icons=true&bg_color=F8FAFF&title_color=1D4ED8&text_color=334155&icon_color=3B82F6&border_color=BFDBFE&border_radius=12"/>
+## GitHub Analytics
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Aarti-Maind&background=F8FAFF&border=BFDBFE&ring=3B82F6&fire=1D4ED8&currStreakLabel=1D4ED8&sideLabels=334155&currStreakNum=1D4ED8&sideNums=1D4ED8&dates=94A3B8"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aarti-Maind&show_icons=true&bg_color=F8FBFF&title_color=2563EB&text_color=334155&icon_color=3B82F6&border_color=BFDBFE&border_radius=12"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aarti-Maind&background=F8FBFF&border=BFDBFE&ring=60A5FA&fire=3B82F6&currStreakLabel=2563EB&sideLabels=475569&currStreakNum=2563EB&sideNums=2563EB&dates=94A3B8"/>
 
 <br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarti-Maind&layout=compact&bg_color=F8FAFF&title_color=1D4ED8&text_color=334155&border_color=BFDBFE&border_radius=12"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarti-Maind&layout=compact&bg_color=F8FBFF&title_color=2563EB&text_color=334155&border_color=BFDBFE&border_radius=12"/>
 
 </div>
 
 ---
+
+<div align="center">
+
+## GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aarti-Maind&theme=flat&no-frame=true&margin-w=10&row=2&column=4"/>
+
+</div>
+
+---
+
+<div align="center">
 
 ## Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aarti-Maind&bg_color=F8FAFF&color=1D4ED8&line=3B82F6&point=1D4ED8&area_color=BFDBFE&area=true&hide_border=false"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aarti-Maind&bg_color=F8FBFF&color=2563EB&line=60A5FA&point=2563EB&area=true&area_color=DBEAFE&hide_border=false&border_color=BFDBFE"/>
 
 </div>
 
 ---
 
-## Currently Exploring
+<div align="center">
+
+## Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Aarti-Maind/Aarti-Maind/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
 
 <div align="center">
+
+## Currently Exploring
 
 <table>
 <tr>
 
-<td align="center" width="25%">
-<b>AI</b><br>
-Artificial Intelligence Applications
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=python" width="45"/>
+
+<br>
+
+<b>Artificial Intelligence</b>
+
 </td>
 
-<td align="center" width="25%">
-<b>System Design</b><br>
-Architecture & Scalable Systems
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring" width="90"/>
+
+<br>
+
+<b>System Design</b>
+
 </td>
 
-<td align="center" width="25%">
-<b>Cloud</b><br>
-Modern Cloud Technologies
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=aws" width="45"/>
+
+<br>
+
+<b>Cloud Technologies</b>
+
 </td>
 
-<td align="center" width="25%">
-<b>Backend</b><br>
-Scalable Backend Development
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=spring" width="45"/>
+
+<br>
+
+<b>Scalable Backend</b>
+
 </td>
 
 </tr>
@@ -276,42 +269,40 @@ Scalable Backend Development
 
 ---
 
-## Let's Connect
-
 <div align="center">
 
+## Connect With Me
+
 <a href="https://aartimaind-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Explore_My_Portfolio-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br><br>
 
-<a href="https://linkedin.com/in/aarti-maind">LinkedIn</a>
-  ·  
-<a href="https://github.com/Aarti-Maind">GitHub</a>
-  ·  
-<a href="https://instagram.com/aarti.___29">Instagram</a>
+<a href="https://linkedin.com/in/aarti-maind">
+<img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
+</a>
+
+  
+
+<a href="https://github.com/Aarti-Maind">
+<img src="https://skillicons.dev/icons?i=github" width="42"/>
+</a>
+
+  
+
+<a href="https://instagram.com/aarti.___29">
+<img src="https://skillicons.dev/icons?i=instagram" width="42"/>
+</a>
 
 <br><br>
 
-<sub>Open to building meaningful products, solving challenging problems, and continuously learning.</sub>
-
-</div>
+### Building technology that creates meaningful experiences.
 
 <br>
-
-<div align="center">
-
-### Building technology that creates meaningful experiences.
 
 💙
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:1E3A8A,50:3B82F6,100:BFDBFE&section=footer"/>
-
-<div align="center">
-
-<sub>Designed & built by Aarti Maind</sub>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:93C5FD,50:CDE7FF,100:EEF7FF&section=footer"/>
