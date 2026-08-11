@@ -42,7 +42,7 @@ I'm a Full Stack Developer with a background in Computer Science, focused on bui
 
 # ⚡ Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### 🔹 Backend
 
