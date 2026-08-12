@@ -46,7 +46,7 @@
 
 # 👩‍💻 About Me
 
-♨️ Full Stack Developer turning ideas into scalable, intelligent, and meaningful digital experiences.
+ ♨️ Full Stack Developer turning ideas into scalable, intelligent, and meaningful digital experiences.
 
 * 🎓 B.Tech in Computer Science Engineering
 * 💻 Passionate about AI-powered applications
