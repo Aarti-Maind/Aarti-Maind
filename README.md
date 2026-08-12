@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:FFB6D9,50:F472B6,100:A855F7&text=Aarti%20Maind&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%" alt="Hey there, I'm Aarti Maind! Header"/>
+<div align="center">
+
+<h1>👋 Hey there, I'm Aarti Maind!</h1>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:FFB6D9,50:F472B6,100:A855F7&animation=fadeIn&section=header" width="100%" alt="Aarti Maind"/>
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Data+Science+Enthusiast;Creative+%7C+Problem+Solver" alt="Aarti Maind Roles"/> 
 
