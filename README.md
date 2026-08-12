@@ -46,12 +46,11 @@
 
 # 👩‍💻 About Me
 
-I'm a Full Stack Developer with a background in Computer Science, focused on building scalable web applications and modern digital experiences.
+♨️ Full Stack Developer turning ideas into scalable, intelligent, and meaningful digital experiences.
 
 * 🎓 B.Tech in Computer Science Engineering
-* 💻 Java Full Stack Developer
-* 🚀 Passionate about AI-powered applications
-* 🌱 Continuously learning modern technologies
+* 💻 Passionate about AI-powered applications
+* 📈 Continuously learning modern technologies
 * 🎯 Focused on solving real-world problems through software
 
 ---
