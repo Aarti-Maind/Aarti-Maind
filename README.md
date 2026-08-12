@@ -9,7 +9,7 @@
 <table>
 <tr>
 
-<td align="center" width="55%" bgcolor="coral">
+<td align="center" width="55%">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:FFB6D9,50:F472B6,100:A855F7&section=header" width="92%" alt=""/>
 
 <a href="https://aartimaind-portfolio.vercel.app">
@@ -30,7 +30,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:A855F7,50:F472B6,100:FFB6D9&section=footer" width="92%" alt=""/>
 </td>
 
-<td align="center" width="45%" bgcolor="pink">
+<td align="center" width="45%">
 
 <img src="https://raw.githubusercontent.com/Aarti-Maind/Aarti-Maind/main/girl1.avif" width="500" alt="Girl Coding Animation"/>
 
