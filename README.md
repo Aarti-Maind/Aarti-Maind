@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Data+Science+Enthusiast;Creative+%7C+Problem+Solver" alt="Aarti Maind Roles"/> 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aarti-Maind/Aarti-Maind/main/girl1.AVIF" width="400" alt="Girl Coding Animation"/>
+  <img src="https://raw.githubusercontent.com/Aarti-Maind/Aarti-Maind/main/girl1.avif" width="400" alt="Girl Coding Animation"/>
 </div>
 
 <br/>
