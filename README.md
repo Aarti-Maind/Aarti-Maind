@@ -10,6 +10,7 @@
 <tr>
 
 <td align="center" width="55%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:FFB6D9,50:F472B6,100:A855F7&section=header" width="92%" alt=""/>
 
 <a href="https://aartimaind-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
@@ -37,67 +38,8 @@
 
 </tr>
 </table>
-
-</div>
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:FFB6D9,50:F472B6,100:A855F7&section=header" width="92%" alt=""/>
-
-<table>
-<tr>
-
-<td align="center" width="55%">
-
-<h2>💖 Let's Connect</h2>
-
-<br/>
-
-<a href="https://aartimaind-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
- 
-
-<a href="https://linkedin.com/in/aarti-maind">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Aarti-Maind">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
- 
-
-<a href="https://instagram.com/aarti.___29">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=aarti-maind&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
-
-<br/><br/>
-
-✨ <b>Let's build something amazing together.</b>
-
-</td>
-
-<td align="center" width="45%">
-
-<img src="https://raw.githubusercontent.com/Aarti-Maind/Aarti-Maind/main/girl1.avif" width="400" alt="Girl Coding Animation"/>
-
-</td>
-
-</tr>
-</table>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:A855F7,50:F472B6,100:FFB6D9&section=footer" width="92%" alt=""/>
-
 </div>
-
-
 
 </div>
 
