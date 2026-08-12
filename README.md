@@ -19,8 +19,8 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://instagram.com/aarti.___29">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://github.com/Aarti-Maind">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
@@ -31,7 +31,7 @@
 
 <td align="center" width="45%">
 
-<img src="https://raw.githubusercontent.com/Aarti-Maind/Aarti-Maind/main/girl1.avif" width="400" alt="Girl Coding Animation"/>
+<img src="https://raw.githubusercontent.com/Aarti-Maind/Aarti-Maind/main/girl1.avif" width="500" alt="Girl Coding Animation"/>
 
 </td>
 
