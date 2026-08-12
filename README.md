@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Data+Science+Enthusiast;Creative+%7C+Problem+Solver" alt="Aarti Maind Roles"/> 
 
-<div align="right">
-  <img src="https://raw.githubusercontent.com/Aarti-Maind/Aarti-Maind/main/girl1.avif" width="320" alt="Girl Coding Animation"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aarti-Maind/Aarti-Maind/main/girl.gif" width="400" alt="Girl Coding Animation"/>
 </div>
 
 <br/>
@@ -20,7 +20,7 @@
 &nbsp;
 <a href="https://instagram.com/aarti.___29"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=aarti-maind&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
 
