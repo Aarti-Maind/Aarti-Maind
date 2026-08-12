@@ -27,7 +27,7 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=aarti-maind&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:A855F7,50:F472B6,100:FFB6D9&section=footer" width="92%" alt=""/>
 </td>
 
 <td align="center" width="45%">
@@ -38,7 +38,6 @@
 
 </tr>
 </table>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:A855F7,50:F472B6,100:FFB6D9&section=footer" width="92%" alt=""/>
 </div>
 
 </div>
