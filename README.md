@@ -157,7 +157,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/Aarti-Maind">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="600" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://instagram.com/aarti.___29">
@@ -171,7 +171,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aarti-Maind/Aarti-Maind/main/A.jpg" width="120" alt="A"/>
+<img src="https://raw.githubusercontent.com/Aarti-Maind/Aarti-Maind/main/A.jpg" width="300" alt="A"/>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:A855F7,50:F472B6,100:FFB6D9&section=footer" width="100%" alt="Footer"/>
