@@ -32,7 +32,7 @@
 
 <td align="center" width="45%">
 
-<img src="https://raw.githubusercontent.com/Aarti-Maind/Aarti-Maind/main/girl1.avif" width="500" alt="Girl Coding Animation"/>
+<img src="https://raw.githubusercontent.com/Aarti-Maind/Aarti-Maind/main/girl1.avif" width="600" alt="Girl Coding Animation"/>
 
 </td>
 
