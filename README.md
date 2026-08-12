@@ -39,6 +39,45 @@
 </table>
 
 </div>
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="55%" style="border: 2px solid #F472B6; border-radius: 18px; padding: 20px;">
+
+<br/>
+
+<a href="https://aartimaind-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/aarti-maind">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/aarti.___29">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=aarti-maind&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
+
+<br/><br/>
+
+</td>
+
+<td align="center" width="45%" style="border: 2px solid #A855F7; border-radius: 18px; padding: 10px;">
+
+<img src="https://raw.githubusercontent.com/Aarti-Maind/Aarti-Maind/main/girl1.avif" width="400" alt="Girl Coding Animation"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 
 </div>
