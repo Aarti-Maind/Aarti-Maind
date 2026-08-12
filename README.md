@@ -6,8 +6,6 @@
 
 <img src="https://raw.githubusercontent.com/Aarti-Maind/Aarti-Maind/main/girl1.avif" width="400" alt="Girl Coding Animation"/>
 
-<br/>
-
 <a href="https://aartimaind-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
