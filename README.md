@@ -172,8 +172,6 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Aarti-Maind/Aarti-Maind/main/A.jpg" width="300" alt="A"/>
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:A855F7,50:F472B6,100:FFB6D9&section=footer" width="100%" alt="Footer"/>
 
 </div>
