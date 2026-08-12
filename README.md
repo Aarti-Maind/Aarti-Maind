@@ -11,6 +11,11 @@
 
 <td align="center" width="55%">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:FFB6D9,50:F472B6,100:A855F7&section=header" width="92%" alt=""/>
+<td width="8%" align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=420&width=70&color=0:FFB6D9,50:F472B6,100:A855F7&section=right" height="420" alt=""/>
+
+</td>
 
 <a href="https://aartimaind-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
