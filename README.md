@@ -4,7 +4,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=F472B6&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Data+Science+Enthusiast;Creative+%7C+Problem+Solver" alt="Aarti Maind Roles"/> 
 
-<img src="https://raw.githubusercontent.com/Aarti-Maind/Aarti-Maind/main/girl1.avif" width="400" alt="Girl Coding Animation"/>
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="55%">
 
 <a href="https://aartimaind-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
@@ -14,11 +19,27 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://instagram.com/aarti.___29"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a>
+<a href="https://instagram.com/aarti.___29">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=aarti-maind&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
+
+</td>
+
+<td align="center" width="45%">
+
+<img src="https://raw.githubusercontent.com/Aarti-Maind/Aarti-Maind/main/girl1.avif" width="400" alt="Girl Coding Animation"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
 
 </div>
 
