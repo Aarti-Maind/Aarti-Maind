@@ -98,7 +98,7 @@
 
 # Featured Projects
 
-| Project Highlights                             |                                                                                                          |
+| Projects                                       | Highlights                                                                                        |
 | :--------------------------------------------- | :------------------------------------------------------------------------------------------------------- |
 | **Enterprise Multi-Tenant SaaS POS System**    | Multi-tenant architecture • Role-based access control • JWT Authentication • React + Spring Boot + MySQL |
 | **Event Management System**                    | Secure authentication • REST API architecture • Swagger Documentation • React + Spring Boot              |
