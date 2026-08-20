@@ -78,11 +78,11 @@
 
 ### 🔹 Tools & Version Control
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,androidstudio" alt="Git GitHub VS Code IntelliJ Postman Android Studio"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,postman,androidstudio" alt="Git GitHub VS Code IntelliJ Docker Postman Android Studio"/>
 
 ### 🔹 Cloud & Deployment
 
-<img src="https://skillicons.dev/icons?i=vercel,cloudflare,docker" alt="Vercel Cloudflare Docker"/>
+<img src="https://skillicons.dev/icons?i=vercel,cloudflare" alt="Vercel Cloudflare "/>
 &nbsp;
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" height="48" alt="Railway"/>
 
@@ -159,10 +159,7 @@
 <a href="https://github.com/Aarti-Maind">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-&nbsp;
-<a href="https://instagram.com/aarti.___29">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+
 
 </div>
 
